@@ -1,2 +1,1 @@
-# AstronomyBasics
-this is a repo for all the astronomy basics you need to know to dive into the amazingly mysterious journey into the cosmos
+a college project for brushing up on our html and css syllabus as covered till midsems
